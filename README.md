@@ -31,7 +31,7 @@ Projeto Full Stack desenvolvido para praticar conceitos fundamentais de desenvol
 ```txt
 CadastroContatos/
 
-├── Backend/
+├── back/
 │   ├── Controllers/
 │   │   └── ContactsController.cs
 │   │
@@ -41,7 +41,7 @@ CadastroContatos/
 │   ├── Program.cs
 │   └── Backend.csproj
 │
-└── Frontend/
+└── front/
     ├── index.html
     ├── style.css
     └── script.js
